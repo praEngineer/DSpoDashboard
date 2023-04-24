@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_dosny_dspobitpro_rpt_timeuntilpaymentexpected" label="TimeUntilPaymentExpected" language="en" table="x_dosny_bit_procur_bit_procurement_invoice">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspobitpro_rpt_timeuntilpaymentexpected</element>
+            <help/>
+            <hint/>
+            <label>TimeUntilPaymentExpected</label>
+            <language>en</language>
+            <name>x_dosny_bit_procur_bit_procurement_invoice</name>
+            <plural>TimeUntilPaymentExpected</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-24 16:33:26</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TimeUntilPaymentExpected</sys_name>
+            <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
+            <sys_update_name>sys_documentation_x_dosny_bit_procur_bit_procurement_invoice_x_dosny_dspobitpro_rpt_timeuntilpaymentexpected_en</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-24 16:33:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

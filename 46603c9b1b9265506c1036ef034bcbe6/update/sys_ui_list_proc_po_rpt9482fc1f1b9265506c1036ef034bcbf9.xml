@@ -3,182 +3,182 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>e1688d5b1b1665506c1036ef034bcbaa</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>749691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_bit_req_no</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>69688d5b1b1665506c1036ef034bcbaa</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>f49691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>requested_by</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>e9688d5b1b1665506c1036ef034bcbaa</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>789691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vendor</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>6d688d5b1b1665506c1036ef034bcbaa</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>f89691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>ed688d5b1b1665506c1036ef034bcbaa</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>7c9691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>61688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>fc9691db1b5665506c1036ef034bcba0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_procurement_name</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>e1688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>709691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_procurement_type</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>65688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>f09691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_procurement_status</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>e5688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>749691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_funding</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>69688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>f49691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_est_fy23_cost</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>e9688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>789691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_fy23_cost</element>
-            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">a1688d5b1b1665506c1036ef034bcba9</list_id>
+            <list_id display_value="proc_po" element="NULL" name="proc_po" parent="NULL" relationship="NULL" sys_domain="global" view="e082385f1b9265506c1036ef034bcbd1">b89691db1b5665506c1036ef034bcb9f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
-            <sys_id>6d688d5b1b1665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
+            <sys_id>f89691db1b5665506c1036ef034bcba1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -192,10 +192,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:03:13</sys_created_on>
+            <sys_created_on>2023-04-24 17:05:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a1688d5b1b1665506c1036ef034bcba9</sys_id>
+            <sys_id>b89691db1b5665506c1036ef034bcb9f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>proc_po</sys_name>
             <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
@@ -203,7 +203,7 @@
             <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
             <sys_update_name>sys_ui_list_proc_po_RPT9482fc1f1b9265506c1036ef034bcbf9</sys_update_name>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:03:13</sys_updated_on>
+            <sys_updated_on>2023-04-24 17:05:09</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt9482fc1f1b9265506c1036ef034bcbf9" name="RPT9482fc1f1b9265506c1036ef034bcbf9">e082385f1b9265506c1036ef034bcbd1</view>
             <view_name/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-04-24 16:06:42">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-04-24 17:08:08">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -100,6 +100,108 @@
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>sfarkas</sys_updated_by>
                         <sys_updated_on>2023-04-24 15:45:05</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA DSpoBITprocurementDa - New Tab 2">f9148dd31b1665506c1036ef034bcb0e</page>
+                <summary>DSpo No Invoice Info</summary>
+                <sys_created_by>sfarkas</sys_created_by>
+                <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                <sys_id>48b5515b1b5665506c1036ef034bcba9</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>sfarkas</sys_updated_by>
+                <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>04b5515b1b5665506c1036ef034bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>40b5515b1b5665506c1036ef034bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>4cb5515b1b5665506c1036ef034bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>DSpo No Invoice Info</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>4cb5515b1b5665506c1036ef034bcbac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>88b5515b1b5665506c1036ef034bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>8cb5515b1b5665506c1036ef034bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>c0b5515b1b5665506c1036ef034bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
+                        <value>84551d971b5665506c1036ef034bcb87</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-04-24 10:01:17">48b5515b1b5665506c1036ef034bcba9</portal_section>
+                        <sys_created_by>sfarkas</sys_created_by>
+                        <sys_created_on>2023-04-24 17:01:17</sys_created_on>
+                        <sys_id>c4b5515b1b5665506c1036ef034bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>sfarkas</sys_updated_by>
+                        <sys_updated_on>2023-04-24 17:01:17</sys_updated_on>
                         <value>true</value>
                     </sys_portal_preferences>
                 </related_items_node>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0b7d949c1b54911010c26391ec4bcb14" label="BIT Procurement invoice" max_length="40" name="x_dosny_bit_procur_bit_procurement_invoice" type="collection">
+        <element active="false" attributes="edge_encryption_enabled=true" function_definition="&#10;glidefunction:datediff(sys_updated_on,vendor_invoice_date)" function_field="true" label="TimeBeforePaymentDue" max_length="40" name="x_dosny_dspobitpro_rpt_timebeforepaymentdue" read_only="true" type="glide_date"/>
+        <element active="false" function_definition="glidefunction:datediff(sys_updated_on,vendor_invoice_date)" function_field="true" label="TimeUntilPaymentExpected" max_length="40" name="x_dosny_dspobitpro_rpt_timeuntilpaymentexpected" read_only="true" type="glide_duration"/>
+    </element>
+</database>
