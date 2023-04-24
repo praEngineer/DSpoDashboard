@@ -3,22 +3,22 @@
         <dashboard display_value="DSpoBITprocurementDashboard">3ce3f0df1b9265506c1036ef034bcb5b</dashboard>
         <home>false</home>
         <homepage/>
-        <order>1</order>
+        <order>2</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>sfarkas</sys_created_by>
-        <sys_created_on>2023-04-24 14:35:53</sys_created_on>
+        <sys_created_on>2023-04-24 15:44:24</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>02647cdf1b9265506c1036ef034bcb15</sys_id>
+        <sys_id>f1148dd31b1665506c1036ef034bcb16</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>3ce3f0df1b9265506c1036ef034bcb5b</sys_name>
         <sys_overrides/>
         <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
         <sys_policy/>
         <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
-        <sys_update_name>pa_m2m_dashboard_tabs_02647cdf1b9265506c1036ef034bcb15</sys_update_name>
+        <sys_update_name>pa_m2m_dashboard_tabs_f1148dd31b1665506c1036ef034bcb16</sys_update_name>
         <sys_updated_by>sfarkas</sys_updated_by>
-        <sys_updated_on>2023-04-24 14:35:53</sys_updated_on>
-        <tab display_value="DSpoBITprocurementDa - New Tab">42647cdf1b9265506c1036ef034bcb12</tab>
+        <sys_updated_on>2023-04-24 15:44:24</sys_updated_on>
+        <tab display_value="DSpoBITprocurementDa - New Tab 2">75148dd31b1665506c1036ef034bcb13</tab>
     </pa_m2m_dashboard_tabs>
 </record_update>

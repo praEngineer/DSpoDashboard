@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
     <pa_tabs action="INSERT_OR_UPDATE">
-        <canvas_page display_value="PA DSpoBITprocurementDa - New Tab">c2647cdf1b9265506c1036ef034bcb0f</canvas_page>
-        <name>DSpoBITprocurementDa - New Tab</name>
-        <page display_value="PA DSpoBITprocurementDa - New Tab">c264bc1f1b9265506c1036ef034bcb44</page>
+        <canvas_page display_value="PA DSpoBITprocurementDa - New Tab 2">39148dd31b1665506c1036ef034bcb10</canvas_page>
+        <name>DSpoBITprocurementDa - New Tab 2</name>
+        <page display_value="PA DSpoBITprocurementDa - New Tab 2">f9148dd31b1665506c1036ef034bcb0e</page>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>sfarkas</sys_created_by>
-        <sys_created_on>2023-04-24 14:35:53</sys_created_on>
+        <sys_created_on>2023-04-24 15:44:24</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>42647cdf1b9265506c1036ef034bcb12</sys_id>
+        <sys_id>75148dd31b1665506c1036ef034bcb13</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>DSpoBITprocurementDa - New Tab</sys_name>
+        <sys_name>DSpoBITprocurementDa - New Tab 2</sys_name>
         <sys_overrides/>
         <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
         <sys_policy/>
         <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
-        <sys_update_name>pa_tabs_42647cdf1b9265506c1036ef034bcb12</sys_update_name>
+        <sys_update_name>pa_tabs_75148dd31b1665506c1036ef034bcb13</sys_update_name>
         <sys_updated_by>sfarkas</sys_updated_by>
-        <sys_updated_on>2023-04-24 14:35:53</sys_updated_on>
+        <sys_updated_on>2023-04-24 15:44:24</sys_updated_on>
     </pa_tabs>
 </record_update>
