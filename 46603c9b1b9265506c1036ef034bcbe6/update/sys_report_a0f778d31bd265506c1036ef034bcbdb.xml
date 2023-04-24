@@ -47,9 +47,13 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>assigned_to</field>
         <field_list>number,vendor_invoice_no,assigned_to,status,vendor_invoice_date,invoice_amount,assigned_to.name,nc_small_purchase_order.assigned_to.name,nc_small_purchase_order.po_number,nc_small_purchase_order.vendor,nc_small_purchase_order.total_amount,status_short_description,status_date,sys_updated_on,sys_updated_by</field_list>
-        <filter table="x_dosny_bit_procur_bit_procurement_invoice">vendor_invoice_dateLESSTHANvendor_invoice_date@day@before@30^ORstatus!=3^vendor_invoice_dateISNOTEMPTY<item endquery="false" field="vendor_invoice_date" goto="false" newquery="false" operator="LESSTHAN" or="false" value="vendor_invoice_date@day@before@30"/>
-            <item display_value="Paid" endquery="false" field="status" goto="false" newquery="false" operator="!=" or="true" value="3"/>
-            <item endquery="false" field="vendor_invoice_date" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        <filter table="x_dosny_bit_procur_bit_procurement_invoice">vendor_invoice_dateISNOTEMPTY^ORsys_created_onISNOTEMPTY^status!=3^ORstatus_dateMORETHANvendor_invoice_date@day@after@30^ORassigned_toISEMPTY^NQstatus!=3^status_dateLESSTHANvendor_invoice_date@day@after@30<item endquery="false" field="vendor_invoice_date" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ISNOTEMPTY" or="true" value=""/>
+            <item display_value="Paid" endquery="false" field="status" goto="false" newquery="false" operator="!=" or="false" value="3"/>
+            <item endquery="false" field="status_date" goto="false" newquery="false" operator="MORETHAN" or="true" value="vendor_invoice_date@day@after@30"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="true" value=""/>
+            <item display_value="Paid" endquery="false" field="status" goto="false" newquery="true" operator="!=" or="false" value="3"/>
+            <item endquery="false" field="status_date" goto="false" newquery="false" operator="LESSTHAN" or="false" value="vendor_invoice_date@day@after@30"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -109,14 +113,14 @@
         <sys_created_by>sfarkas</sys_created_by>
         <sys_created_on>2023-04-24 14:51:20</sys_created_on>
         <sys_id>a0f778d31bd265506c1036ef034bcbdb</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>DSpoDB Invoice Assignment</sys_name>
         <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
         <sys_policy/>
         <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
         <sys_update_name>sys_report_a0f778d31bd265506c1036ef034bcbdb</sys_update_name>
         <sys_updated_by>sfarkas</sys_updated_by>
-        <sys_updated_on>2023-04-24 16:52:31</sys_updated_on>
+        <sys_updated_on>2023-04-24 18:15:12</sys_updated_on>
         <table>x_dosny_bit_procur_bit_procurement_invoice</table>
         <title>DSpoDB Invoice Assignment</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

@@ -3,227 +3,227 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>3ba3d5d71b5665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>cb96699f1b9665506c1036ef034bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vendor_invoice_no</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>bba3d5d71b5665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4396699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>3fa3d5d71b5665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>c396699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>bfa3d5d71b5665506c1036ef034bcbab</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4796699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vendor_invoice_date</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>33a3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>c796699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>invoice_amount</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>b3a3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4b96699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to.name</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>37a3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>cb96699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nc_small_purchase_order.assigned_to.name</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>b7a3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4f96699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nc_small_purchase_order.po_number</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>3ba3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>cf96699f1b9665506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nc_small_purchase_order.vendor</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>bba3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4396699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nc_small_purchase_order.total_amount</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>3fa3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>c396699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status_short_description</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>bfa3d5d71b5665506c1036ef034bcbac</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4796699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status_date</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>12</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>33a3d5d71b5665506c1036ef034bcbad</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>c796699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>13</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>b3a3d5d71b5665506c1036ef034bcbad</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>4b96699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_by</element>
-            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">7fa3d5d71b5665506c1036ef034bcbaa</list_id>
+            <list_id display_value="x_dosny_bit_procur_bit_procurement_invoice" element="NULL" name="x_dosny_bit_procur_bit_procurement_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="a4f7b8171bd265506c1036ef034bcb60">8b96699f1b9665506c1036ef034bcb50</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>14</position>
             <sum>false</sum>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
-            <sys_id>37a3d5d71b5665506c1036ef034bcbad</sys_id>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
+            <sys_id>cb96699f1b9665506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -237,10 +237,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-04-24 16:52:32</sys_created_on>
+            <sys_created_on>2023-04-24 18:15:13</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7fa3d5d71b5665506c1036ef034bcbaa</sys_id>
+            <sys_id>8b96699f1b9665506c1036ef034bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_dosny_bit_procur_bit_procurement_invoice</sys_name>
             <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
@@ -248,7 +248,7 @@
             <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
             <sys_update_name>sys_ui_list_x_dosny_bit_procur_bit_procurement_invoice_RPTa0f778d31bd265506c1036ef034bcbdb</sys_update_name>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-04-24 16:52:32</sys_updated_on>
+            <sys_updated_on>2023-04-24 18:15:13</sys_updated_on>
             <sys_user/>
             <view display_value="Rpta0f778d31bd265506c1036ef034bcbdb" name="RPTa0f778d31bd265506c1036ef034bcbdb">a4f7b8171bd265506c1036ef034bcb60</view>
             <view_name/>

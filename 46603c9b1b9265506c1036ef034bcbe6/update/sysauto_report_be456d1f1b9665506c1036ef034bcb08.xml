@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <group_list/>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <name>Scheduled execution of DSpoDB No Invoice Info</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF-landscape</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>Letter</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="DSpoDB No Invoice Info">84551d971b5665506c1036ef034bcb87</report>
+        <report_body><![CDATA[<p>Link to a report showing invoices by assigned person which have missing crucial information.</p>]]></report_body>
+        <report_title>INFO | SNdev | Invoice Records without expected detail</report_title>
+        <run_as display_value="Steven Farkas">955a9cdddb07a7005cbb9806b99619db</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>2</run_dayofweek>
+        <run_period/>
+        <run_start>2023-04-24 18:09:27</run_start>
+        <run_time>1970-01-01 18:05:00</run_time>
+        <run_type>weekly</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-24 18:13:48</sys_created_on>
+        <sys_id>be456d1f1b9665506c1036ef034bcb08</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Scheduled execution of DSpoDB No Invoice Info</sys_name>
+        <sys_package display_value="DSpoBITprocurementDashboards" source="x_dosny_dspobitpro">46603c9b1b9265506c1036ef034bcbe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoBITprocurementDashboards">46603c9b1b9265506c1036ef034bcbe6</sys_scope>
+        <sys_update_name>sysauto_report_be456d1f1b9665506c1036ef034bcb08</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-24 18:14:39</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list>955a9cdddb07a7005cbb9806b99619db,423a9c9ddb07a7005cbb9806b9961903</user_list>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>
